@@ -36,7 +36,7 @@ function Header(){
     </div>
     <div id="SearchDiv"> 
         <div> 
-            <a href="home.html"><img height="100%" width="100%" src="https://www.logo.wine/a/logo/Snapdeal/Snapdeal-White-Dark-Background-Logo.wine.svg" alt=""></a>
+            <a href="index.html"><img height="100%" width="100%" src="https://www.logo.wine/a/logo/Snapdeal/Snapdeal-White-Dark-Background-Logo.wine.svg" alt=""></a>
         </div>
         <div>
              <input type="text" placeholder="Search product & Brands" id="Searchinput">

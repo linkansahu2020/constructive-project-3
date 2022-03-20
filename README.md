@@ -1,6 +1,6 @@
 # constructive-project-3
 <h1>Snapdeal Clone</h1>
-<p>This is the project at masai school construct week after learning HTML, CSS, JAVASCRIPT & nodejs. Here is the <a href="">link of our app</a> which is live on vercel</p>
+<p>This is the project at masai school construct week after learning HTML, CSS, JAVASCRIPT & nodejs. Here is the <a href="https://eloquent-shannon-56b94a.netlify.app">link of our app</a> which is live on vercel</p>
 <h3>Contributers</h3>
 <ul>
   <li>Linkan Kumar Sahu</li>
@@ -19,5 +19,5 @@
 <h2>Description</h2>
 <h3>Home Page</h3>
 <p>This is the main landing page of our website. Here clicking on any products will direct the user to the respective Product Page. Clicking on Account will display an animated popup box for login and sign up. To add product in the cart user need to login first which is the part of authentication.</p>
-<img src="/Users/dutikeshwar/Desktop/Screenshot 2022-03-20 at 8.27.31 PM"/>
+<img src="./frontend/image/Screenshot 2022-03-20 at 8.27.31 PM.png"/>
 

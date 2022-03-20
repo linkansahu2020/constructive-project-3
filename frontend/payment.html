@@ -126,7 +126,7 @@
 
 <script>
   document.querySelector(".imgp").onclick = ()=>{
-    window.location.href = "home.html"
+    window.location.href = "index.html"
   }
   let user = JSON.parse(localStorage.getItem("userData"))
   document.getElementById("ltotal").innerHTML = user.totalPrice
@@ -166,7 +166,7 @@ function validate(event) {
     localStorage.removeItem("ads");
     cartDelete()
     window.alert("Payment Successful");
-    window.location.href = "home.html";
+    window.location.href = "index.html";
   } else {
     window.alert("Invalid OTP");
   }
