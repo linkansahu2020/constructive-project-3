@@ -45,7 +45,7 @@
 <ul>
   <li>The Landing page is done by Vivek and signup part is done by Soumya. But in the signup the backend part is done by Linkan</li>
   <li>The Product Page, Product Details Page and the Cart Page are done by Linkan. And backend code for all products are done by Vivek.</li>
-  <li>The Header, Footer and Address page was done by Kamlesk</li>
+  <li>The Header, Footer and Address page was done by Kamlesh</li>
   <li>The Payment Page OTP page is done by Prince</li>
 </ul>
 
