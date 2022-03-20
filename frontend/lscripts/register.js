@@ -2,7 +2,7 @@
     async function lRegister(mail){
         console.log(mail)
         try{
-            let response = await fetch("http://localhost:9345/signup",{
+            let response = await fetch("https://snapdeal-clone.herokuapp.com/signup",{
                 method:"POST",
                 body:JSON.stringify(mail),
                 headers:{

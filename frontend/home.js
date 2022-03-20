@@ -107,8 +107,8 @@
 let y=document.getElementById("containermiddle")
 
 // getData(`https://fakestoreapi.com/products`,x)
-getData(`http://localhost:9345/products/All Products/null`,x)
-getData(`http://localhost:9345/products/All Products/null`,y)
+getData(`https://snapdeal-clone.herokuapp.com/products/All Products/null`,x)
+getData(`https://snapdeal-clone.herokuapp.com/products/All Products/null`,y)
 
 // getData(`https://fakestoreapi.com/products`,y)
 

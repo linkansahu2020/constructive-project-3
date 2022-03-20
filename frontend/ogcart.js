@@ -3,7 +3,7 @@ console.log('user:', user)
 allItemsInCart()
 async function allItemsInCart(){
     try{
-        let response = await fetch(`http://localhost:9345/carts/${user.user._id}`,{
+        let response = await fetch(`https://snapdeal-clone.herokuapp.com/carts/${user.user._id}`,{
             method:"GET",
             headers:{
                 "Content-Type":"application/json"
@@ -151,7 +151,7 @@ function display(data){
             let bo={
                 productIds:d
             }
-            let response = await fetch(`http://localhost:9345/carts/${user.user._id}`,{
+            let response = await fetch(`https://snapdeal-clone.herokuapp.com/carts/${user.user._id}`,{
                 method:"PUT",
                 body: JSON.stringify(bo),
                 headers:{

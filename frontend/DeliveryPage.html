@@ -218,7 +218,7 @@ ShowEmailAddrees.innerText = user.user.email
 allItemsInCart()
 async function allItemsInCart(){
     try{
-        let response = await fetch(`http://localhost:9345/carts/${user.user._id}`,{
+        let response = await fetch(`https://snapdeal-clone.herokuapp.com/carts/${user.user._id}`,{
             method:"GET",
             headers:{
                 "Content-Type":"application/json"

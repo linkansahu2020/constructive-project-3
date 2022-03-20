@@ -174,7 +174,7 @@ function validate(event) {
 console.log('user:', user)
 async function cartDelete(){
   try{
-    let res = await fetch(`http://localhost:9345/carts/${user.user._id}`,{
+    let res = await fetch(`https://snapdeal-clone.herokuapp.com/carts/${user.user._id}`,{
         method:"DELETE",
         headers:{
             'Content-Type':'application/json'
