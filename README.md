@@ -9,12 +9,12 @@
   <li>Vivek Kumar</li>
   <li>Prince Kumar</li>
 </ul>
-<h3>Tech Stack</h3><hr/>
+<h3>Tech Stack</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
   <li>nodejs</li>
 </ul>
-<h3>Description</h3><hr/>
+<h2>Description</h2>
 
